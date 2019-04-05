@@ -2,12 +2,19 @@
 
 ### Table of Contents
 
-* [Front-End Web](#front-end-web)
-* [Web-developer](#Web-developer)
+* [Learn HTML](#Learn-HTML)
+* [Learn CSS](#Learn-CSS)
+* [Learn JavaScript](#Learn-JavaScript)
+* [Learn JQuery](#Learn-JQuery)
+* [Learn PHP](#Learn-PHP)
+* [Learn Python](#Learn-Python)
+* [Learn NodeJS](#Learn-NdeJS)
+* [Learn Sass](#Learn-SAss)
+* 
 
 ---
 
-### Front-End Web
+### Learn HTML
 
 <details>
   <summary>View Details</summary>
@@ -18,3 +25,33 @@ building beautiful, responsive websites optimized for mobile and desktop
 performance.
   
   <details>
+  
+### Learn CSS
+<details>
+  <summary>View Details</summary>
+ <details>
+
+### Learn JavaScript
+<details>
+  <summary>View Details</summary>
+ <details>
+### Learn JQuery
+<details>
+  <summary>View Details</summary>
+ <details>
+### Learn PHP
+<details>
+  <summary>View Details</summary>
+ <details>
+### Learn Python
+<details>
+  <summary>View Details</summary>
+ <details>
+### Learn NodeJS
+<details>
+  <summary>View Details</summary>
+ <details>
+### Learn Sass
+<details>
+  <summary>View Details</summary>
+ <details>
