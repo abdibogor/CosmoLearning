@@ -6,11 +6,11 @@
 * [Learn CSS](#Learn-CSS)
 * [Learn JavaScript](#Learn-JavaScript)
 * [Learn JQuery](#Learn-JQuery)
-* [Learn PHP](#Learn-PHP)
-* [Learn Python](#Learn-Python)
-* [Learn NodeJS](#Learn-NdeJS)
 * [Learn Sass](#Learn-SAss)
-* 
+* [Learn PHP](#Learn-PHP)
+* [Learn NodeJS](#Learn-NodeJS)
+* [Learn Python](#Learn-Python)
+* [Learn Java](#Learn-JAVA)
 
 ---
 
@@ -23,7 +23,8 @@
 Master the skills required to become a Front-End Web Developer, and start
 building beautiful, responsive websites optimized for mobile and desktop
 performance.
-  
+
+1. [https://www.youtube.com/playlist?list=PLLnpHn493BHHhCVlCRhAMpeFwDH2BTE3p](https://www.youtube.com/playlist?list=PLLnpHn493BHHhCVlCRhAMpeFwDH2BTE3p)
   <details>
   
 ### Learn CSS
@@ -39,6 +40,10 @@ performance.
 <details>
   <summary>View Details</summary>
  <details>
+### Learn Sass
+<details>
+  <summary>View Details</summary>
+ <details>
 ### Learn PHP
 <details>
   <summary>View Details</summary>
@@ -51,7 +56,7 @@ performance.
 <details>
   <summary>View Details</summary>
  <details>
-### Learn Sass
+### Learn Java
 <details>
   <summary>View Details</summary>
  <details>
