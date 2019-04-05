@@ -3,9 +3,11 @@
 ### Table of Contents
 
 * [Front-End Web](#front-end-web)
-* [Webdeveloper](#Web-developer)
+* [Web-developer](#Web-developer)
 
-#front-end-web
+---
+
+###front-end-web
 
 <details>
   <summary>View Details</summary>
