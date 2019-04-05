@@ -24,7 +24,7 @@ Master the skills required to become a Front-End Web Developer, and start
 building beautiful, responsive websites optimized for mobile and desktop
 performance.
 
-1. LevelUpTuts - (How to Make Your First Website): [https://www.youtube.com/playlist?list=PLLnpHn493BHHhCVlCRhAMpeFwDH2BTE3p](https://www.youtube.com/playlist?list=PLLnpHn493BHHhCVlCRhAMpeFwDH2BTE3p)
+1. LevelUpTuts - (How to Make Your First Website): [http://tiny.cc/0sdu4y](http://tiny.cc/0sdu4y)
   <details>
   
 ### Learn CSS
