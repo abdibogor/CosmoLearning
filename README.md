@@ -36,27 +36,34 @@ performance.
 <details>
   <summary>View Details</summary>
  <details>
+ 
 ### Learn JQuery
 <details>
   <summary>View Details</summary>
  <details>
+ 
 ### Learn Sass
 <details>
   <summary>View Details</summary>
  <details>
+ 
 ### Learn PHP
 <details>
   <summary>View Details</summary>
  <details>
-### Learn Python
-<details>
-  <summary>View Details</summary>
- <details>
+ 
 ### Learn NodeJS
 <details>
   <summary>View Details</summary>
  <details>
+ 
+### Learn Python
+<details>
+  <summary>View Details</summary>
+ <details>
+ 
 ### Learn Java
 <details>
   <summary>View Details</summary>
  <details>
+ 
