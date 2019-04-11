@@ -24,19 +24,35 @@ Master the skills required to become a Front-End Web Developer, and start
 building beautiful, responsive websites optimized for mobile and desktop
 performance.
 
-1. LevelUpTuts - (How to Make Your First Website): [http://tiny.cc/0sdu4y](http://tiny.cc/0sdu4y)
+01. LevelUpTuts - (How to Make Your First Website) = [http://tiny.cc/4gu14y](http://tiny.cc/4gu14y)
+01. LevelUpTuts - (HTML5 Tutorials) = [http://tiny.cc/kvbw4y](http://tiny.cc/kvbw4y)
+02. Thenewboston - (XHTML and CSS Tutorials Playlist) = [http://tiny.cc/s0zy4y](http://tiny.cc/s0zy4y)
+02. Thenewboston - (HTML5 Tutorials Playlist) = [http://tiny.cc/a3zy4y](http://tiny.cc/a3zy4y)
+03. Envato Tuts+ = [http://tiny.cc/lvzy4y](http://tiny.cc/lvzy4y)
+04. The Bad Tutorials = [http://tiny.cc/18zy4y](http://tiny.cc/18zy4y)
+
+
   <details>
   
 ### Learn CSS
+
 <details>
   <summary>View Details</summary>
-  
+01. LevelUpTuts (CSS Experiments) = [http://tiny.cc/wwbw4y](http://tiny.cc/wwbw4y)
+01. LevelUpTuts (CSS3 Tutorials) = [http://tiny.cc/zvox4y](http://tiny.cc/zvox4y)
+01. LevelUpTuts (CSS Tutorials) = [http://tiny.cc/kbpx4y](http://tiny.cc/kbpx4y)
+02. The Bad Tutorials (CSS Tutorials) = [http://tiny.cc/tvxy4y](http://tiny.cc/tvxy4y)
+03. The Net Ninja (CSS Tutorials for Beginners) = [http://tiny.cc/93xy4y](http://tiny.cc/93xy4y)
+03. The Net Ninja (CSS Positioning ) = [http://tiny.cc/s8ez4y](http://tiny.cc/s8ez4y)
+04. DevTips (CSS Animations Series) = [http://tiny.cc/bj204y](http://tiny.cc/bj204y)
 
  <details>
 
  ------------
+ 
 
 ### Learn JavaScript
+
 <details>
   <summary>View Details</summary>
   
@@ -45,6 +61,7 @@ performance.
  -------------
  
 ### Learn JQuery
+
 <details>
   <summary>View Details</summary>
  <details>
@@ -52,6 +69,7 @@ performance.
  ------------
  
 ### Learn Sass
+
 <details>
   <summary>View Details</summary>
  <details>
@@ -59,6 +77,7 @@ performance.
  ------------
  
 ### Learn PHP
+
 <details>
   <summary>View Details</summary>
  <details>
@@ -66,6 +85,7 @@ performance.
  ----------
  
 ### Learn NodeJS
+
 <details>
   <summary>View Details</summary>
   
@@ -74,6 +94,7 @@ performance.
  -------------
  
 ### Learn Python
+
 <details>
   <summary>View Details</summary>
   
@@ -82,6 +103,7 @@ performance.
  -------------------
  
 ### Learn Java
+
 <details>
   <summary>View Details</summary>
  <details>
