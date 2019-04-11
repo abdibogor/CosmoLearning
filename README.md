@@ -34,12 +34,12 @@ performance.
   
 ---------
   
-### Learn CSS
+### __Learn CSS__
 
 <details>
   <summary>View Details</summary>
   
-  CSS stands for Cascading Style Sheets.
+  _CSS stands for Cascading Style Sheets._
 
 - Cascading refers to the way CSS applies one style on top of another.
 - Style Sheets control the look and feel of web documents.
@@ -57,7 +57,7 @@ performance.
 ------------
  
 
-### Learn JavaScript
+###__Learn JavaScript__
 
 <details>
   <summary>View Details</summary>
