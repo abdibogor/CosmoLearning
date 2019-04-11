@@ -34,7 +34,7 @@ performance.
   
 ---------
   
-### __Learn CSS__
+### Learn CSS
 
 <details>
   <summary>View Details</summary>
@@ -57,7 +57,7 @@ performance.
 ------------
  
 
-###__Learn JavaScript__
+### Learn JavaScript
 
 <details>
   <summary>View Details</summary>
