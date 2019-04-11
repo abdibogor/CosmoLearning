@@ -43,6 +43,10 @@ performance.
 
 - Cascading refers to the way CSS applies one style on top of another.
 - Style Sheets control the look and feel of web documents.
+
+*CSS and HTML work hand in hand*
+- HTML sorts out the page structure.
+- CSS defines how HTML elements are displayed.
   
 01. LevelUpTuts (CSS Experiments) = [http://tiny.cc/wwbw4y](http://tiny.cc/wwbw4y)
 01. LevelUpTuts (CSS3 Tutorials) = [http://tiny.cc/zvox4y](http://tiny.cc/zvox4y)
