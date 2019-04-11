@@ -30,7 +30,7 @@ performance.
 03. Envato Tuts+ [http://tiny.cc/lvzy4y](http://tiny.cc/lvzy4y)
 04. The Bad Tutorials [http://tiny.cc/18zy4y](http://tiny.cc/18zy4y)
 
-<details>
+</details>
   
 ---------
   
@@ -52,7 +52,7 @@ performance.
 03. The Net Ninja (CSS Positioning ) = [http://tiny.cc/s8ez4y](http://tiny.cc/s8ez4y)
 04. DevTips (CSS Animations Series) = [http://tiny.cc/bj204y](http://tiny.cc/bj204y)
 
- <details>
+ </details>
 
 ------------
  
@@ -64,7 +64,7 @@ performance.
   
   
   
- <details>
+ </details>
  
  -------------
  
@@ -72,7 +72,7 @@ performance.
 
 <details>
   <summary>View Details</summary>
- <details>
+ </details>
  
  ------------
  
@@ -80,7 +80,7 @@ performance.
 
 <details>
   <summary>View Details</summary>
- <details>
+ </details>
  
  ------------
  
@@ -88,7 +88,7 @@ performance.
 
 <details>
   <summary>View Details</summary>
- <details>
+ </details>
  
 ----------
  
@@ -97,7 +97,7 @@ performance.
 <details>
   <summary>View Details</summary>
   
- <details>
+ </details>
  
 -------------
  
@@ -106,7 +106,7 @@ performance.
 <details>
   <summary>View Details</summary>
   
- <details>
+ </details>
  
  -------------------
  
@@ -114,5 +114,5 @@ performance.
 
 <details>
   <summary>View Details</summary>
- <details>
+ </details>
  
